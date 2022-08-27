@@ -1,0 +1,22 @@
+{
+  "name": "citest",
+  "version": "1.0.0",
+  "description": "Testing coveralls and ci with github actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FranciscoPereira987/ciTest.git"
+  },
+  "author": "Francisco Pereira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FranciscoPereira987/ciTest/issues"
+  },
+  "homepage": "https://github.com/FranciscoPereira987/ciTest#readme",
+  "devDependencies": {
+    "jest": "^29.0.1"
+  }
+}
