@@ -1,0 +1,2 @@
+{"/home/franciscojavierpereira/Documents/Taller2/ciTest/src/sampleCode.js": {"path":"/home/franciscojavierpereira/Documents/Taller2/ciTest/src/sampleCode.js","statementMap":{"0":{"start":{"line":3,"column":4},"end":{"line":3,"column":17}}},"fnMap":{"0":{"name":"sum","decl":{"start":{"line":1,"column":16},"end":{"line":1,"column":19}},"loc":{"start":{"line":2,"column":0},"end":{"line":4,"column":1}},"line":2}},"branchMap":{},"s":{"0":1},"f":{"0":1},"b":{},"_coverageSchema":"1a1c01bbd47fc00a2c39e90264f33305004495a9","hash":"06a4145276b730baa07be6029032995c03f08185"}
+}
